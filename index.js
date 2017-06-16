@@ -3,7 +3,7 @@
  * and paste images from clipboard (Works on Chrome, Firefox, Edge, not on Safari)
  * @see https://quilljs.com/blog/building-a-custom-module/
  */
-export class ImageDrop {
+default export class ImageDrop {
 
 	/**
 	 * Instantiate the module given a quill instance and any options
